@@ -6,6 +6,10 @@ Data_Engineering_TIL(20230108)
 
 ** URL : https://youtu.be/60goWpADp-I
 
+### "REST API 기본개념" 글에 이어서 공부한 내용입니다.
+
+** URL : https://minman2115.github.io/DE_TIL379
+
 ## [공부한 내용]
 
 REST API와 같이 인터넷 기반의 API를 사용할때 여러 서버에 API가 분산되어 있는 경우가 있다.
