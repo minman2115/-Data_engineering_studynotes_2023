@@ -1,6 +1,6 @@
 .
 
-Python_TIL(20230311)
+Data_Engineering & Python_TIL(20230311)
 
 인프런 “고수가 되는 파이썬 : 동시성과 병렬성 문법 배우기 Feat. 멀티스레딩 vs 멀티프로세싱 (Inflearn Original)” 강의를 공부하고 정리한 내용입니다.
 
