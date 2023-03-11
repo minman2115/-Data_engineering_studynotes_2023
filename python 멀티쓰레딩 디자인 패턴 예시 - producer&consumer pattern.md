@@ -8,8 +8,6 @@ Data_Engineering & Python_TIL(20230311)
 
 ### [공부한 내용]
 
-python 멀티쓰레딩 디자인 패턴 예시 : producer&consumer pattern
-
 ```python
 import concurrent.futures
 import logging
